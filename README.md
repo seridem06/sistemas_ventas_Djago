@@ -1,1 +1,1 @@
-# sistemas_ventas_Djago
+# sistemas_ventas_Django
